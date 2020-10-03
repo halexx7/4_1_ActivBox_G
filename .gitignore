@@ -1,2 +1,13 @@
+# Project: 4_l_ActivBox_G
+  
 # Mac DS_Store files
 .DS_Store
+
+# Modules
+node_modules/
+
+# File
+package-lock.json
+
+# Temp file
+_temp/
